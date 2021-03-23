@@ -25,7 +25,7 @@ All tasks are done in the Google Colab platform.
 
 ## How to Run the Code
 1. Download the repository into your local machine.
-2. Ensure that your local machine already has the standard machine learning/data science packages (NumPy, pandas, scikit-learn).
+2. Ensure that your local machine already has the standard machine learning/data science packages (NumPy, pandas, scikit-learn) and SymPy.
 3. For every task, the **Notebook file** should be enough by itself. All the other requirements were already inside the notebook in the **pip install** form or already inside the repository folder that is readily accessible.
 4. The only things missing are the datasets (since their size is just too large). You can download them from their respective source to your local machine.
 5. Please note that you need to make sure all directories (either for loading the dataset or saving the results) in the notebook are already pointed to the correct directories based on your local machine. The directories written in the notebook are my directories in Google Colab.
