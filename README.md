@@ -17,10 +17,8 @@ All tasks are done in the Google Colab platform.
 
 ## Table of Contents
 - Task I: Quantum Computing Part ([Notebook file](https://github.com/eraraya-ricardo/qml-hep-gsoc-2021/blob/main/QML_HEP_GSoC_2021_Tasks_I_Quantum_Computing.ipynb), [nbviewer](https://nbviewer.jupyter.org/github/eraraya-ricardo/qml-hep-gsoc-2021/blob/main/QML_HEP_GSoC_2021_Tasks_I_Quantum_Computing.ipynb))
-- Task II: Quantum Generative Adversarial Network (QGAN) Part ([Notebook file](https://github.com/eraraya-ricardo/qml-hep-gsoc-2021/blob/main/QML_HEP_GSoC_2021_Tasks_II_QGAN.ipynb), [Google Colab](https://colab.research.google.com/drive/1U-mW5-sagabK_MYHXwIOkbDIXkafW_5a?usp=sharing)
-<!--
-[nbviewer](https://nbviewer.jupyter.org/github/eraraya-ricardo/qml-hep-gsoc-2021/blob/main/nbviewer/QML_HEP_GSoC_2021_Tasks_II_QGAN.ipynb)
--->
+- Task II: Quantum Generative Adversarial Network (QGAN) Part ([Notebook file](https://github.com/eraraya-ricardo/qml-hep-gsoc-2021/blob/main/QML_HEP_GSoC_2021_Tasks_II_QGAN.ipynb), [Google Colab](https://colab.research.google.com/drive/1U-mW5-sagabK_MYHXwIOkbDIXkafW_5a?usp=sharing))
+<!--[nbviewer](https://nbviewer.jupyter.org/github/eraraya-ricardo/qml-hep-gsoc-2021/blob/main/nbviewer/QML_HEP_GSoC_2021_Tasks_II_QGAN.ipynb)-->
 - Task III: Quantum Convolutional Neural Network (QCNN) Part ([Notebook file](https://github.com/eraraya-ricardo/qml-hep-gsoc-2021/blob/main/QML_HEP_GSoC_2021_Tasks_III_QCNN.ipynb), [Google Colab](https://colab.research.google.com/drive/1XiS9Q0UncLXk6eVkKyQayV_-Fj56_9Py?usp=sharing))
 - Task IV: Classical Graph Neural Network (GNN) Part ([Notebook file](https://github.com/eraraya-ricardo/qml-hep-gsoc-2021/blob/main/QML_HEP_GSoC_2021_Tasks_IV_GNN.ipynb), [nbviewer](https://nbviewer.jupyter.org/github/eraraya-ricardo/qml-hep-gsoc-2021/blob/main/QML_HEP_GSoC_2021_Tasks_IV_GNN.ipynb))
 - Task V: Open Task Part ([Notebook file](https://github.com/eraraya-ricardo/qml-hep-gsoc-2021/blob/main/QML_HEP_GSoC_2021_Tasks_V_Quantum_Computing.ipynb), [nbviewer](https://nbviewer.jupyter.org/github/eraraya-ricardo/qml-hep-gsoc-2021/blob/main/QML_HEP_GSoC_2021_Tasks_V_Quantum_Computing.ipynb)) <br>
