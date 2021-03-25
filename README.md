@@ -21,7 +21,7 @@ All tasks are done in the Google Colab platform.
 - Task III: Quantum Convolutional Neural Network (QCNN) Part ([Notebook file](https://github.com/eraraya-ricardo/qml-hep-gsoc-2021/blob/main/QML_HEP_GSoC_2021_Tasks_III_QCNN.ipynb), [Google Colab](https://colab.research.google.com/drive/1XiS9Q0UncLXk6eVkKyQayV_-Fj56_9Py?usp=sharing))
 - Task IV: Classical Graph Neural Network (GNN) Part ([Notebook file](https://github.com/eraraya-ricardo/qml-hep-gsoc-2021/blob/main/QML_HEP_GSoC_2021_Tasks_IV_GNN.ipynb), [nbviewer](https://nbviewer.jupyter.org/github/eraraya-ricardo/qml-hep-gsoc-2021/blob/main/QML_HEP_GSoC_2021_Tasks_IV_GNN.ipynb))
 - Task V: Open Task Part ([Notebook file](https://github.com/eraraya-ricardo/qml-hep-gsoc-2021/blob/main/QML_HEP_GSoC_2021_Tasks_V_Quantum_Computing.ipynb), [nbviewer](https://nbviewer.jupyter.org/github/eraraya-ricardo/qml-hep-gsoc-2021/blob/main/QML_HEP_GSoC_2021_Tasks_V_Quantum_Computing.ipynb)) <br>
-**Note**: GitHub sometimes failed to render Jupyter Notebook's markdown properly, so in case of that, please use the **nbviewer** or **Google Colab** link to see the notebook in nbviewer. Some Cirq's circuit plots aren't shown correctly (too long) in nbviewer. The best way to view all the notebooks is by downloading them and open them on your local machine.
+**Note**: GitHub sometimes failed to render Jupyter Notebook's markdown properly, so in case of that, please use the **nbviewer** or **Google Colab** link to see the notebook in the browser. Some Cirq's circuit plots aren't shown correctly (too long) in nbviewer. The best way to view all the notebooks is by downloading them and open them on your local machine.
 
 ## How to Run the Code
 1. Download the repository into your local machine.
