@@ -16,11 +16,11 @@ both from [Machine Learning for Science (ML4SCI)](https://summerofcode.withgoogl
 All tasks are done in the Google Colab platform.
 
 ## Table of Contents
-- Task I: Quantum Computing Part ([Notebook file](https://github.com/eraraya-ricardo/qml-hep-gsoc-2021/blob/main/QML_HEP_GSoC_2021_Tasks_I_Quantum_Computing.ipynb), [nbviewer]())
+- Task I: Quantum Computing Part ([Notebook file](https://github.com/eraraya-ricardo/qml-hep-gsoc-2021/blob/main/QML_HEP_GSoC_2021_Tasks_I_Quantum_Computing.ipynb), [nbviewer](https://nbviewer.jupyter.org/github/eraraya-ricardo/qml-hep-gsoc-2021/blob/main/QML_HEP_GSoC_2021_Tasks_I_Quantum_Computing.ipynb))
 - Task II: Quantum Generative Adversarial Network (QGAN) Part ([Notebook file](https://github.com/eraraya-ricardo/qml-hep-gsoc-2021/blob/main/QML_HEP_GSoC_2021_Tasks_II_QGAN.ipynb), [nbviewer]())
 - Task III: Quantum Convolutional Neural Network (QCNN) Part ([Notebook file](), [nbviewer]())
-- Task IV: Classical Graph Neural Network (GNN) Part ([Notebook file](https://github.com/eraraya-ricardo/qml-hep-gsoc-2021/blob/main/QML_HEP_GSoC_2021_Tasks_IV_GNN.ipynb), [nbviewer]())
-- Task V: Open Task Part ([Notebook file](https://github.com/eraraya-ricardo/qml-hep-gsoc-2021/blob/main/QML_HEP_GSoC_2021_Tasks_V_Quantum_Computing.ipynb), [nbviewer]()) <br>
+- Task IV: Classical Graph Neural Network (GNN) Part ([Notebook file](https://github.com/eraraya-ricardo/qml-hep-gsoc-2021/blob/main/QML_HEP_GSoC_2021_Tasks_IV_GNN.ipynb), [nbviewer](https://nbviewer.jupyter.org/github/eraraya-ricardo/qml-hep-gsoc-2021/blob/main/QML_HEP_GSoC_2021_Tasks_IV_GNN.ipynb))
+- Task V: Open Task Part ([Notebook file](https://github.com/eraraya-ricardo/qml-hep-gsoc-2021/blob/main/QML_HEP_GSoC_2021_Tasks_V_Quantum_Computing.ipynb), [nbviewer](https://nbviewer.jupyter.org/github/eraraya-ricardo/qml-hep-gsoc-2021/blob/main/QML_HEP_GSoC_2021_Tasks_V_Quantum_Computing.ipynb)) <br>
 **Note**: GitHub sometimes failed to render Jupyter Notebook's markdown properly, so in case of that, please use the **nbviewer** link to see the notebook in nbviewer.
 
 ## How to Run the Code
