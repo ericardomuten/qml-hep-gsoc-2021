@@ -1,11 +1,12 @@
-# GSoC 2021 QML-HEP Evaluation Test
+# GSoC 2021 QML-HEP Evaluation Test and Proposal
 A dedicated submission repository for the Google Summer of Code 2021 [QML-HEP Projects](https://ml4sci.org/gsoc/projects/2021/project_QMLHEP.html).
 The tasks description can be read [here](https://drive.google.com/file/d/1H2VMVXLmoxLlRAu5bINNKs8R93SN20zL/view).
 
 This completed test is submitted as an application for project ideas:
-1. [Quantum Neural Networks for High Energy Physics Analysis at the LHC](https://ml4sci.org/gsoc/2021/proposal_QMLHEP2.html)
-2. [Implementation of Quantum Generative Models to Perform High Energy Physics Analysis at the LHC](https://ml4sci.org/gsoc/2021/proposal_QMLHEP1.html) <br>
-both from [Machine Learning for Science (ML4SCI)](https://summerofcode.withgoogle.com/organizations/6508146341707776/).
+1. [Quantum Convolutional Neural Networks for High Energy Physics Analysis at the LHC](https://ml4sci.org/gsoc/2021/proposal_QMLHEP2.html)
+2. [Quantum Graph Neural Networks for High Energy Physics Analysis at the LHC] (https://ml4sci.org/gsoc/2021/proposal_QMLHEP3.html)
+3. [Implementation of Quantum Generative Models to Perform High Energy Physics Analysis at the LHC](https://ml4sci.org/gsoc/2021/proposal_QMLHEP1.html) <br>
+from [Machine Learning for Science (ML4SCI)](https://summerofcode.withgoogle.com/organizations/6508146341707776/).
 
 ## General Approach in Tackling the Problem
 - **Task I** is trivial and straightforward. The only close-ended task in the test.
@@ -16,12 +17,16 @@ both from [Machine Learning for Science (ML4SCI)](https://summerofcode.withgoogl
 All tasks are done in the Google Colab platform.
 
 ## Table of Contents
+### Evaluation Test
 - Task I: Quantum Computing Part ([Notebook file](https://github.com/eraraya-ricardo/qml-hep-gsoc-2021/blob/main/QML_HEP_GSoC_2021_Tasks_I_Quantum_Computing.ipynb)) [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1cbHz3oys-fMsZ5LHy7iZb--ef9YWridB?usp=sharing)
 - Task II: Quantum Generative Adversarial Network (QGAN) Part ([Notebook file](https://github.com/eraraya-ricardo/qml-hep-gsoc-2021/blob/main/QML_HEP_GSoC_2021_Tasks_II_QGAN.ipynb)) [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1U-mW5-sagabK_MYHXwIOkbDIXkafW_5a?usp=sharing)
 - Task III: Quantum Convolutional Neural Network (QCNN) Part ([Notebook file](https://github.com/eraraya-ricardo/qml-hep-gsoc-2021/blob/main/QML_HEP_GSoC_2021_Tasks_III_QCNN.ipynb)) [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XiS9Q0UncLXk6eVkKyQayV_-Fj56_9Py?usp=sharing)
 - Task IV: Classical Graph Neural Network (GNN) Part ([Notebook file](https://github.com/eraraya-ricardo/qml-hep-gsoc-2021/blob/main/QML_HEP_GSoC_2021_Tasks_IV_GNN.ipynb)) [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1bPOAJxNtT8oQNLVxDWfk9m28kRAp9N6N?usp=sharing)
 - Task V: Open Task Part ([Notebook file](https://github.com/eraraya-ricardo/qml-hep-gsoc-2021/blob/main/QML_HEP_GSoC_2021_Tasks_V_Open_Task.ipynb)) [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1LYH6WU3cLRP3vzVzAdR9PGAx-Omwgh6O?usp=sharing) <br>
 **Note**: GitHub sometimes failed to render Jupyter Notebook's markdown properly, so in case of that, please click the **Open in Colab** button to see the notebook in the browser via Google Colab.
+
+### Proposal
+- [Quantum Convolutional Neural Networks for High Energy Physics Analysis at the LHC](https://github.com/eraraya-ricardo/qml-hep-gsoc-2021/blob/main/Eraraya_Ricardo_Muten_GSoC_2021_Proposal_QCNN.pdf)
 
 ## How to Run the Code
 1. Download the repository into your local machine.
