@@ -1,6 +1,5 @@
 # GSoC 2021 QML-HEP Evaluation Test and Proposal
-> ## Update
-> My proposal has been accepted! The official project page is [here](https://summerofcode.withgoogle.com/projects/#5612096894533632).
+> ## Update: My proposal has been accepted!🎉🎉 The official project page is [here](https://summerofcode.withgoogle.com/projects/#5612096894533632).
 
 A dedicated submission repository for the Google Summer of Code 2021 [QML-HEP Projects](https://ml4sci.org/gsoc/projects/2021/project_QMLHEP.html).
 The tasks description can be read [here](https://drive.google.com/file/d/1H2VMVXLmoxLlRAu5bINNKs8R93SN20zL/view).
