@@ -9,7 +9,7 @@ This completed test is submitted as an application for project ideas:
 2. [Quantum Graph Neural Networks for High Energy Physics Analysis at the LHC](https://ml4sci.org/gsoc/2021/proposal_QMLHEP3.html)
 3. [Implementation of Quantum Generative Models to Perform High Energy Physics Analysis at the LHC](https://ml4sci.org/gsoc/2021/proposal_QMLHEP1.html) <br>
 
-All from [Machine Learning for Science (ML4SCI)](https://summerofcode.withgoogle.com/organizations/6508146341707776/) organization.
+All from [Machine Learning for Science (ML4Sci)](https://summerofcode.withgoogle.com/organizations/6508146341707776/) organization.
 
 ## General Approach in Tackling the Problem
 - **Task I** is trivial and straightforward. The only close-ended task in the test.
