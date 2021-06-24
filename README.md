@@ -15,7 +15,7 @@
 
 </div>
 
-
+<br>
 The tasks description can be read [here](https://drive.google.com/file/d/1H2VMVXLmoxLlRAu5bINNKs8R93SN20zL/view).
 This completed test is submitted as an application for project ideas:
 1. [Quantum Convolutional Neural Networks for High Energy Physics Analysis at the LHC](https://ml4sci.org/gsoc/2021/proposal_QMLHEP2.html)
